@@ -1,0 +1,49 @@
+body{
+    background-color: rgb(250, 232, 210);
+}
+h1{
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: underline;
+    text-transform: uppercase;
+}
+p{
+    text-align: center;
+    font-size:large;
+
+}
+li{
+    list-style-type: circle;
+}
+
+.lista{
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+table{
+    background-color: rgba(255, 255, 255, 0.74);
+    border-spacing: 30px 30px;
+    margin-left: 50px;
+}
+
+.Tulipanes{
+    width: 200PX;
+    height: 200PX;
+}
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 48
+}
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 48
+}
+
